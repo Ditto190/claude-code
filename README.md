@@ -28,7 +28,7 @@
 </td>
 <td>
 <h2 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br>
-<a href="https://repoxray.2clabs.tech/"><strong>repoxray.devdisplay.org</strong></a></h2>
+<a href="https://repoxray.2clabs.tech/"><strong>repoxray.2clabs.tech</strong></a></h2>
 </td>
 </tr>
 </table>
