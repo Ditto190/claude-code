@@ -30,11 +30,11 @@
 <h2 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br>
 <a href="https://repoxray.2clabs.tech/"><strong>repoxray.2clabs.tech</strong></a></h2>
 </td>
+</tr>
+</table>
 
 `Spend less time reading code, more time building.`
 
-</tr>
-</table>
 </div>
 
 ---
